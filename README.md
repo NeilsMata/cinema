@@ -52,7 +52,7 @@ The application can be deployed in both environments: **local machine** or in a 
 
 ### Architecture
 
-![overview](docs/images/overview.jpg)
+![overview](docs/images/arquitecturaASis.png)
 
 ### Homepage
 
